@@ -7,7 +7,7 @@
 - 🎓 B.Tech CSE Graduate
 - 💻 Working as a Freelancer in QA Testing & Bug Reporting
 - 🔍 Passionate about Software Testing, Cybersecurity & Cloud
-- 🚀 Actively looking for Remote Opportunities (QA / Testing / Support Roles)
+- 🚀 Actively looking for Remote or Onsite Opportunities (QA / Testing / Support Roles)
 
 ---
 
