@@ -13,6 +13,9 @@
 
 🛠️ **Skills**
 - Manual Testing
+- Automation Testing(Basics)
+- Selenium Basic
+- API Testing
 - Bug Reporting (with proper steps, expected vs actual results)
 - Basic Security Testing (Nmap, Recon)
 - SDLC & STLC understanding
