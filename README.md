@@ -30,15 +30,17 @@
 - Created Statement of Applicability (SoA)
 - Designed audit planning based on real-world scenarios
 
-🔹 **Bug Reports Collection (In Progress)**
+🔹 **Bug Reports Collection/Automation Testing (In Progress)**
 - Testing real websites and applications
 - Writing structured and professional bug reports
+- Learning Automation using Selenium
 
 ---
 
 📈 **Currently Learning**
 - Advanced Software Testing
 - API Testing (Postman)
+- Automation Testing(Selenum/Playwright)
 - Bug Bounty & Security Testing
 
 ---
